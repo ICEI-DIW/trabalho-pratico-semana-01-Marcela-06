@@ -7,7 +7,7 @@ Nome: Marcela
 Matricula: 892885
 
 ## Tela de inspeção com navegador
-https://vscode.dev/github/ICEI-DIW/trabalho-pratico-semana-01-Marcela-06/blob/main/prints/TelaNetwork1.jpeg
+![Tela de inspeção](prints/TelaNetwork1.jpeg)
 
 ## Tela de projeto no Replit
-https://vscode.dev/github/ICEI-DIW/trabalho-pratico-semana-01-Marcela-06/blob/main/prints/HelloWord1.jpeg
+![Tela de projeto](prints/HelloWord1.jpeg)
