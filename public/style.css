@@ -1,0 +1,42 @@
+.Cabeçalho {
+    background-color: #323b4c;   
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: row;
+}
+
+.Nome-e-Foto{
+    display: flex;
+    align-items: center;
+}
+
+.Nome {
+    margin-left: 2px;
+    color: white;
+    margin-bottom: 0px;
+}
+
+img {
+    width: 175px;
+    height: auto;
+    margin: 8px;
+    border-bottom: 0px;
+}
+
+.Dados {
+    margin-left: 16px;
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+
+.Contatos {
+    margin-left: 80px;
+}
+
+.Esquerda {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    text-align: justify;
+}
